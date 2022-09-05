@@ -1,0 +1,51 @@
+#text-input {
+    width: 40%;
+    height: 10vh;
+    padding: 1rem;
+    display: block;
+    margin: 1rem auto;
+
+}
+#output {
+    border: 2px solid black;
+    width: 40%;
+    height: 10vh;
+    padding: 1rem;
+    display: block;
+    margin: 1rem auto;
+
+}
+.output-heading {
+    padding: 1rem;
+    font-size: xx-large;
+    text-align: center;
+    color: blue;
+}
+
+.body {
+    margin: 0%;
+    padding: 0%;
+}
+.background-image {
+    background-image: url("/image/bananana.jpg");
+    background-size: cover;
+    height: 100vh;
+ }
+#btn-translate {
+    display: block;
+    margin: 2rem auto;
+    padding: 1rem;
+    cursor: pointer;
+    color: blue;
+    font-weight: bold;
+    background-color: #fca5a5;
+    border: circle;
+
+}
+
+.banana-heading {
+    text-align: center;
+    color: blue;
+    font-size: xx-large;
+    
+}
